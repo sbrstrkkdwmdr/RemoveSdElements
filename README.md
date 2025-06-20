@@ -1,4 +1,4 @@
-# osuSkinRemoveSD
+# RemoveSdElements
 
 removes non-HD elements from an osu! skin
 
