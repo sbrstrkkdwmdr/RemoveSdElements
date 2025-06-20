@@ -2,6 +2,12 @@
 
 removes non-HD elements from an osu! skin
 
+`removeSd.py` -> removes all sd elements from a given skin
+
+`removeSdAll.py` -> removes all sd elements from all skins in a given folder
+
+use global (non-relative) paths for the script
+
 elements that don't have an HD version won't be removed
 
 if you have a skin folder that's laid out like so:
@@ -20,7 +26,3 @@ then after running the script you'll be left with:
   hitcircle.png
   hitcircleoverlay@2x.png
 ```
-
-`removeSd.py` -> removes all sd elements from a given skin
-
-`removeSdAll.py` -> removes all sd elements from all skins in a given folder
