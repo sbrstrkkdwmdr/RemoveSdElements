@@ -24,4 +24,5 @@ skinname/
 ```
 
 `removeSd.py` -> removes all sd elements from a given skin
+
 `removeSdAll.py` -> removes all sd elements from all skins in a given folder
